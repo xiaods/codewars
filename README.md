@@ -1,2 +1,4 @@
 # codewars
-code practise and repeat
+Completed Kata from Code Wars
+
+http://www.codewars.com/users/xiaods
